@@ -1,0 +1,28 @@
+        .hide {
+            display: none;
+        }
+        .absol {
+            position: fixed;
+            top: 20px;
+            right: 15px;
+            background-color: #eee;
+            padding: 10px;
+            word-break: break-all;
+        }
+        #content,
+        #innerContent {
+        padding: 20px;
+        border-radius: 8px;
+        margin: 10px auto;
+        box-shadow: 0px 0px 10px 2px #b4cbfb;
+        }
+        .btn-wrap {
+            background-color: #eee;
+            padding: 15px;
+            border: 2px solid yellowgreen;
+        }
+        .sortingItem th:hover  {
+            color: #3e28cc;
+            cursor: pointer;
+
+        }
